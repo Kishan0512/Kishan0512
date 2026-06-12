@@ -22,7 +22,7 @@
 | Lungs Check App | [Open Figma](https://www.figma.com/design/wRq9mrHsPkqunOEBNLfLHN/Lungs-Check-App?node-id=364-2654&t=ZGpP3tPhCuDMjz1L-0) | [Open Play Store](https://play.google.com/store/apps/details?id=healthy.lungs.breathing.exercise.coach.pranayama.breath.workout.lung.exercises) |
 | AI Recipe App | [Open Figma](https://www.figma.com/design/ILHUGjTI0QKyi1XcbB42ZJ/Al-Recipe-Generator-From-Photo?node-id=136-3011&t=qUscTYaVvwaghW2w-0) | [Open Play Store](https://play.google.com/store/apps/details?id=com.foodai.snaprecipe.mealgenerator) |
 | Scary Home | [Open Figma](https://www.figma.com/design/zAgSV7zSTf5y2vYp0cUfQV/Scary-House?node-id=6-2&p=f&t=FujQgalOY1S0xkYr-0) | [Open Play Store](https://play.google.com/store/apps/details?id=com.scaryhome.escape.horrorgame) |
-| Shadow Sculptor | [Open Figma](https://www.figma.com/design/XeWalirmSx103YQ9nZjujq/Shadow-Sculptor?node-id=4357-2094&t=bj7LbW5HCdrDBn3a-0) | - |
+| Shadow Sculptor | [Open Figma](https://www.figma.com/design/XeWalirmSx103YQ9nZjujq/Shadow-Sculptor?node-id=4357-2094&t=bj7LbW5HCdrDBn3a-0) | [Open Play Store](https://play.google.com/store/apps/details?id=com.shadow.puzzle.braingame) |
 
 ---
 
